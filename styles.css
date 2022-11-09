@@ -1,0 +1,23 @@
+:root {
+    --imgHeigth: 1px !important;
+  }
+
+img {
+    width: 1px !important   ;
+    width: imgHeigth;
+}
+
+iframe img {
+    width: 1px !important;
+    width: imgHeigth;
+}
+
+embed img {
+    width: 1px !important;
+    width: imgHeigth;
+}
+
+object img {
+    width: 1px !important;
+    width: imgHeigth;
+}
